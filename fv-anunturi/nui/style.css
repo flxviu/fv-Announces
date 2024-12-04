@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+@import url('https://fonts.cdnfonts.com/css/tt-norms-pro');
+
+body {
+    margin: 0;
+}
+
+.anunt {
+  position: fixed;
+  top: 20%;
+  right: 2%;
+  width: 350px;
+  height: 25px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: -400px;
+  font-weight: bold;
+
+  font-size: 15px;
+  color: white;
+  opacity: 0.90;
+}
+
+
+.anuntadmin2 { /*Aicia */
+  position: relative;
+  transform: translate(0%, -20%);
+  font-weight: bold;
+  background: #ce6060a9;
+  opacity: 95%;
+  font-family: TT Norms Pro;
+  font-weight: 400;
+  text-align: right;
+  padding: 5vh;
+  border-right: 6px solid #ff0000;
+  border-radius: 5px;
+  width: 75%;
+  height: 110%;
+  overflow: hidden;
+}
+
+.anuntadmin2 taganunt {
+  position:relative;
+  top: -45px;
+  right: 45px;
+  margin: 5px;
+  font: caption;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+  padding:5px 5;
+  background-color: #d11563;
+  float: left;
+  border-radius: 5px;
+  color: white;
+}
+
+.anuntadmin2 uid {
+  font-family: TT Norms Pro;
+  color: white;
+  font-weight: 700;
+  font-size: 19px;
+  letter-spacing: 0.5px;
+  margin: 0;
+  position: absolute;
+  margin: 0;
+  left: 4.8%;
+  margin-right: -50%;
+  top: 8px;
+  transform: translate(0%, 70%);
+  text-align: left;
+  max-width: 370;
+  max-height: 50px !important;
+}
+
+.anuntadmin2 mesajulanuntului {
+  font-family: TT Norms Pro;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  margin: 0;
+  position: absolute;
+  margin: 0;
+  left: 4.9%;
+  margin-right: -50%;
+  top: 39px;
+  transform: translate(0%, 70%);
+  text-align: left;
+  max-width: 370;
+  max-height: 50px !important;
+}
+
+.anuntorganizator { /*Aicia */
+  position: relative;
+  transform: translate(0%, -20%);
+  font-weight: bold;
+  background: #ff9100a9;
+  opacity: 95%;
+  font-family: TT Norms Pro;
+  font-weight: 400;
+  text-align: right;
+  padding: 5vh;
+  border-right: 6px solid #ff9100;
+  border-radius: 5px;
+  width: 75%;
+  height: 110%;
+  overflow: hidden;
+}
+
+.anuntorganizator taganunt {
+  position:relative;
+  top: -45px;
+  right: 45px;
+  margin: 5px;
+  font: caption;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+  padding:5px 5;
+  background-color: #d11563;
+  float: left;
+  border-radius: 5px;
+  color: white;
+}
+
+.anuntorganizator uid {
+  font-family: TT Norms Pro;
+  color: white;
+  font-weight: 700;
+  font-size: 19px;
+  letter-spacing: 0.5px;
+  margin: 0;
+  position: absolute;
+  margin: 0;
+  left: 4.8%;
+  margin-right: -50%;
+  top: 8px;
+  transform: translate(0%, 70%);
+  text-align: left;
+  max-width: 370;
+  max-height: 50px !important;
+}
+
+.anuntorganizator mesajulanuntului {
+  font-family: TT Norms Pro;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  margin: 0;
+  position: absolute;
+  margin: 0;
+  left: 4.9%;
+  margin-right: -50%;
+  top: 39px;
+  transform: translate(0%, 70%);
+  text-align: left;
+  max-width: 370;
+  max-height: 50px !important;
+}
